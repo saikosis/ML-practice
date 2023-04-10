@@ -8,3 +8,5 @@ Algorithms:
 - Drift Detection in datasets
 
 (will be adding new notebooks as I keep practicing)
+
+*Note*: These notebooks are implemented in Google Colab
