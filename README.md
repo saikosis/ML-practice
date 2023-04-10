@@ -9,4 +9,4 @@ Algorithms:
 
 (will be adding new notebooks as I keep practicing)
 
-*Note*: These notebooks are implemented in Google Colab
+*Note: These notebooks are implemented in Google Colab*
